@@ -4,6 +4,24 @@ our idea is one person one portal ,one blockchain id multiple uses at single pla
 There are lot of challenges in this project which needs to be overcome ,but we think if the workis done in rght direction the portal can act as smart governance technique based on blockchain in the future
 
 
+
+
+Steps to do kyc and asset management :
+1.Signup on the protal using a valid adharr and put the name same that is on aadharr card
+2.Enter the Right address of your ethereum account 
+3.now login using the username and password 
+4.To upload kyc document go to kyc panel and upload the document and put the details there
+5.To create property/asset enter the details and ethereum address of the property holder(your address)
+6.To view property go the view property section
+7.To transfer ownership first add the the ethereum address of the next owner in add user panel 
+8.Approver the added user there only
+9.Now go to view Property section and enterthe property id
+10.put the address of new owner in chnage ownership box and click the chnage ownership button
+11.same way you can change the value of property
+
+
+
+
 Testnet Used:
 
 Testrpc
